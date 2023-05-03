@@ -1,0 +1,5 @@
+﻿Module,Order,Value,Statistic,Metric
+1,A,0.766,NODF,Nestedness
+2&3,A,0.602,NODF,Nestedness
+1,B,0.193,Qb,Modularity
+2&3,B,0.315,Qb,Modularity

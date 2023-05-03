@@ -1,0 +1,33 @@
+﻿Timepoint,Gene,Mutation,Frequency,Category
+0,lamB,None,0,LamB
+0,ompC,None,0,OmpC
+0,ompF,None,0,OmpF
+3,ompC,None,0,OmpC
+3,ompF,None,0,OmpF
+3,lamB,stop codon,0.375,LamB
+3,lamB, Δ1 bp,0.185,LamB
+3,malT,IS5 +4 bp,0.095,LamB
+3,malT,25 bp duplication,0.092,LamB
+3,malT,+5 bp,0.066,LamB
+6,ompF,None,0,OmpF
+6,ompC,A -> G,0.081,OmpC
+6,ompC,IS2,0.093,OmpC
+6,ompC,IS5,0.133,OmpC
+6,ompC,IS5,0.097,OmpC
+6,malT,IS5 +4 bp,0.07,LamB
+6,lamB,stop codon,0.283,LamB
+6,lamB, Δ1 bp,0.113,LamB
+9,ompF,None,0,OmpF
+9,malT,T -> G,0.092,LamB
+9,lamB,stop codon,0.579,LamB
+9,lamB, Δ1 bp,0.078,LamB
+9,ompC,IS2,0.127,OmpC
+9,ompC,IS5,0.224,OmpC
+9,ompC,IS5,0.13,OmpC
+9,ompC,IS5,0.233,OmpC
+9,ompC,IS5,0.074,OmpC
+12,ompF,G -> A,0.512,OmpF
+12,lamB,stop codon,0.824,LamB
+12,ompC,IS2,0.138,OmpC
+12,ompC,IS5,0.414,OmpC
+12,ompC,IS5,0.302,OmpC
